@@ -1,0 +1,7 @@
+setup.py
+graphlibrary.egg-info/PKG-INFO
+graphlibrary.egg-info/SOURCES.txt
+graphlibrary.egg-info/dependency_links.txt
+graphlibrary.egg-info/not-zip-safe
+graphlibrary.egg-info/requires.txt
+graphlibrary.egg-info/top_level.txt

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libgraphlib.dylib -install_name @rpath/libgraphlib.dylib CMakeFiles/graphlib.dir/src/graphlib.cpp.o 
